@@ -9,8 +9,8 @@ This project forecasts **pizza sales** and generates a **weekly ingredient purch
 
 | File Name | Description |
 |---|---|
-| **Pizza_ingredients.csv** | Ingredient details and quantities required for each pizza type. |
 | **Pizza_sales.csv** | Historical sales data for different pizza types (date-wise). |
+| **Pizza_ingredients.csv** | Ingredient details and quantities required for each pizza type. |
 | **dominos_predictive_purchase_order_system.ipynb** | Full Jupyter Notebook containing code for data analysis, forecasting, and purchase order generation. |
 | **next_week_forecast.csv** | Forecasted daily sales for each pizza for the next 7 days. |
 | **final_purchase_order.csv** | Final ingredient purchase order for the next week based on forecasted pizza sales. |
@@ -29,7 +29,7 @@ This project forecasts **pizza sales** and generates a **weekly ingredient purch
 
 ## Key Insights
 - **Peak Days:** Fridays show the **highest sales**, followed by Saturdays.
-- **Peak Hours:** Sales **peak at 12 PM - 1 PM**, with a smaller peak around **7 PM**.
+- **Peak Hours:** Sales **peak at 12 PM - 2 PM**, with a smaller peak around **6-7 PM**.
 - **Top Months:** **January, March, and November** have the highest sales.
 - **Top Pizzas:** **Classic Deluxe, Barbecue Chicken, and Hawaiian Pizza** are the best-sellers.
 - **Vegetarian pizzas** contribute more to total sales than non-vegetarian pizzas.
