@@ -11,7 +11,7 @@ This project forecasts **pizza sales** and generates a **weekly ingredient purch
 |---|---|
 | **Pizza_sales.csv** | Historical sales data for different pizza types (date-wise). |
 | **Pizza_ingredients.csv** | Ingredient details and quantities required for each pizza type. |
-| **dominos_predictive_purchase_order_system.ipynb** | Full Jupyter Notebook containing code for data analysis, forecasting, and purchase order generation. |
+| **Predictive_purchase_order_system.ipynb** | Full Jupyter Notebook containing code for data analysis, forecasting, and purchase order generation. |
 | **next_week_forecast.csv** | Forecasted daily sales for each pizza for the next 7 days. |
 | **final_purchase_order.csv** | Final ingredient purchase order for the next week based on forecasted pizza sales. |
 | **dominos_documentation.pdf** | Complete project documentation covering approach, models, EDA, and insights. |
